@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurekk2003" alt="nurekk2003" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, Dagger Hilt and MVVM archiecture**
+- 🌱 I’m currently learning **C++, Java and Kotlin**
 
 - ⚡ Fun fact **I dont't play League of Legends :)**
 
