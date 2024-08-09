@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm NUREK</h1>
-<h3 align="center">A passionate Android, Unity, Java and Python developer from Poland.</h3>
+<h3 align="center">Data Scientist with a passion for Python🐍, Java, and Android development from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurekk2003&label=Profile%20views&color=0e75b6&style=flat" alt="nurekk2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurekk2003" alt="nurekk2003" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Java and Kotlin**
+- 🌱 I’m currently learning **Data Science,ML and Django**
 
 - ⚡ Fun fact **I dont't play League of Legends :)**
+- 
+- ⚡ Second fun fact **Astronomy is my passion🔭 :)**
 
 
 
