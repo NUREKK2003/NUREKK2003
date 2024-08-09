@@ -19,13 +19,14 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
   <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurekk2003&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurekk2003&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 80%; border-radius: 6px; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);"/>
   </div>
   <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nurekk2003&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nurekk2003&show_icons=true&locale=en" alt="GitHub Stats" style="width: 80%; border-radius: 6px; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);"/>
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurekk2003&" alt="GitHub Streak" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurekk2003&" alt="GitHub Streak" style="width: 80%; border-radius: 6px; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);"/>
   </div>
 </div>
+
 
