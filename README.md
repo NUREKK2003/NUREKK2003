@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Data Science,ML and Django**
 
 - ⚡ Fun fact **I dont't play League of Legends :)**
-- 
 - ⚡ Second fun fact **Astronomy is my passion🔭 :)**
 
 
