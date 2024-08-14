@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NUREK</h1>
 <h3 align="center">Data Scientist with a passion for Python🐍, Java, and Android development from Poland.</h3>
 
-- 🌱 I’m currently learning **Data Science,ML and Django**
+- 🌱 I’m currently learning **Data Science, ML, Django and React**
 
 - ⚡ Fun fact **I dont't play League of Legends :)**
 - ⚡ Second fun fact **Astronomy is my passion🔭 :)**
